@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 11479 Triangles
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 11-10-2017
+#>= Last Update: 11-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 int main(){
 	long int test,a,b,c,i=1;

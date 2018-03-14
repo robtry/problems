@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 591 Box of Bricks
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 07-09-2017
+#>= Last Update: 07-09-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 using namespace std;
 int main()

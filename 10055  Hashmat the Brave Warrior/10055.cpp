@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 10055 Hashmat the Brave Warrior
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 08-10-2017
+#>= Last Update: 08-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 //#include <cstdio>
 using namespace std;

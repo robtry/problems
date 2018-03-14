@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 10499 Land of Justice
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 10-10-2017
+#>= Last Update: 10-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 int main(){
 	long int part;

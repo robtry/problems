@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 10082 WERTYU
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 08-10-2017
+#>= Last Update: 08-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 #include <string>
 using namespace std;

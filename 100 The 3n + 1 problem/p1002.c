@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 100 The 3n + 1 problem
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 30-08-17
+#>= Last Update: 02-09-17
+#>= Aditional Comments: ---
+===================================================*/
 #include <stdio.h>
 int main(){
 	int a,b,i=1,y=0,max=0,peque,big,c;

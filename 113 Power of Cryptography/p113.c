@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 113 Power of Cryptography
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 03-09-2017
+#>= Last Update: 03-09-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <stdio.h>
 #include <math.h>
 int main()

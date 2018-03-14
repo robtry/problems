@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 10812 Beat the Spread!
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 11-10-2017
+#>= Last Update: 11-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 int main(){
 	int n,i=0;

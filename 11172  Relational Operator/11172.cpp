@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 11172  Relational Operator
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 09-10-2017
+#>= Last Update: 09-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 int main(){
 	int test,i=0;

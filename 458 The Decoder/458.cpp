@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 458 The Decoder
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 07-10-2017
+#>= Last Update: 07-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <cstdio>
 using namespace std;
 int main() {

@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 272 TEX Quotes
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 07-10-2017
+#>= Last Update: 07-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 #include <string>
 using namespace std;

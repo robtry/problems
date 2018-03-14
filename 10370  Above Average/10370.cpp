@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 10370  Above Average
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 09-10-2017
+#>= Last Update: 09-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 //using namespace std;
 int main(){

@@ -1,3 +1,10 @@
+/*=================================================
+#>= Problem: 10783 Odd Sum
+#>= Author: Roberto Gervacio ~~ Mx ~~
+#>= Start Data: 09-10-2017
+#>= Last Update: 09-10-2017
+#>= Aditional Comments: ---
+===================================================*/
 #include <iostream>
 int main(){
 	int a,b,cases,i=0,sum=0;
